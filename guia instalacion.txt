@@ -1,0 +1,11 @@
+
+
+////////////////////
+INSTALAR DEPENDENCIAS
+
+npm install
+
+-------------------------
+LEVANTAR EL SERVIDOR
+--------------------------
+npm run dev
